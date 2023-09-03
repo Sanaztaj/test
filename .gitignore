@@ -1,3 +1,4 @@
 img
 *.xlsx
 !asghar.xlsx
+.DS_Store
